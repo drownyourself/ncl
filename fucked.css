@@ -81,5 +81,5 @@ a:hover {
     color: #fdffaf;
 }
 * {
-    cursor: url(./other/cursor.cur), pointer;
+    cursor: url(cursor.cur), pointer;
 }
